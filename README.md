@@ -1,4 +1,4 @@
 This is my work in progress!
 
 start server:
-``` py .\manage.py runserver ```
+``` cd djangotutorial | py .\manage.py runserver ```
